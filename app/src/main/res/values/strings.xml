@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Who Wrote It Loader</string>
+    <string name="instructions" translatable="false">Enter a book name!</string>
+
+</resources>
